@@ -1,4 +1,4 @@
-"""#print table of 5
+#print table of 5
 for i in range(5,51,5):
      print(i)
 
@@ -51,7 +51,7 @@ for i in range(1,n+1):
     fact=fact*i
 print(fact)
 
-""""""
+
 # print the sum of all even and odd no in a range seperately
 n= int(input("enter your number"))
 even= 0
@@ -99,7 +99,7 @@ if count==2:
     print ("no is prime ")
 else:
     print("not a prime no")
-"""
+
 # reverse string without using build functions 
 # check the # is palindrome or not 
 #count all letters digits and special symbols from a given #string
